@@ -1,4 +1,4 @@
-== Welcome to Rails
+# i5okie: Test App
 
 This is the first application
 [*TEST APP: learning rails all over*](http://dev.funtania.com/)
