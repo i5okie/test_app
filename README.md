@@ -1,6 +1,8 @@
 == Welcome to Rails
 
-TEST APP
+This is the first application
+[*TEST APP: learning rails all over*](http://dev.funtania.com/)
+by [Ivan Polchenko](http://ivanpolchenko.com).
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
